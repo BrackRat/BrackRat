@@ -1,13 +1,11 @@
-> The heart will be oriented, day after day, and there will be perseverance.
->
-> 心有所向，日复一日，必有精进。
+🌌Introduction
+
+> My heart has a purpose, and I will make progress day after day.        心有所向，日复一日，必有精进。
+
+- 🏫 Undergraduate student of Xidian University.
+- 📫 You can get in touch with me by email at brackrat256@outlook.com
 
 ---
-
-Hi here I'm [BrackRat](https://iooo.top). 
-
----
-
 
 
 
@@ -51,6 +49,9 @@ Hi here I'm [BrackRat](https://iooo.top).
 <code><img height="20" src="https://img.icons8.com/color/50/000000/adobe-premiere-pro.png" alt="Premiere" title="Premiere"></code>
 <code><img height="20" src="https://img.icons8.com/color/50/000000/adobe-after-effects.png" alt="After-Effect" title="After-Effect"></code>
 <code><img height="20" src="https://img.icons8.com/color/50/000000/adobe-audition.png" alt="Audition" title="Audition"></code>
-<code><img height="20" src="https://img.icons8.com/color/50/000000/davinci-resolve.png" alt="Davinci Resolve" title="Davinci Resolve"></code>
+<code><img height="20" src="https://img.icons8.com/color/50/000000/davinci-resolve.png" alt="Davinci Resolve" title="Davinci Resolve">
+</code>
+
+
 
 ![Counter](https://count.getloli.com/get/@brackrat.github.readme)
