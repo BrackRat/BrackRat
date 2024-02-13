@@ -1,6 +1,6 @@
 🌌Introduction
 
-> My heart has a purpose, and I will make progress day after day.        心有所向，日复一日，必有精进。
+> With a clear direction in mind, day by day, there will be progress.        心有所向，日复一日，必有精进。
 
 - 🏫 Undergraduate student of Xidian University.
 - 📫 You can get in touch with me by email at brackrat256@outlook.com
