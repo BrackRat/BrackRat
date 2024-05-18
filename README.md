@@ -5,6 +5,15 @@
 - 🏫 Undergraduate student of Xidian University.
 - 📫 You can get in touch with me by email at brackrat256@outlook.com
 
+
+---
+Coding Time
+
+
+<img src="https://waka.brackrat.com/api/activity/chart/BrackRat.svg"/>
+
+
+
 ---
 
 
