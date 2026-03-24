@@ -1,54 +1,49 @@
-🌌Introduction
+<div align="center">
+  <h1>Hi there 👋, I'm Percy (波西 / BrackRat)</h1>
+  <p><strong>A self-driven developer, content creator, and tech enthusiast.</strong></p>
 
-> With a clear direction in mind, day by day, there will be progress.        心有所向，日复一日，必有精进。
+  <a href="https://space.bilibili.com/12391388">
+    <img src="https://img.shields.io/badge/Bilibili-波西BrackRat-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili">
+  </a>
+</div>
 
-- 🏫 Undergraduate student of Xidian University.
-- 📫 You can get in touch with me by email at brackrat256@outlook.com
+<br />
 
+## 🧑‍💻 About Me
 
----
-Coding Time
+- 🎓 **Undergraduate Student** majoring in Computer Science at **Xidian University** (2023 - 2027).
+- 🔬 **NEP Lab Member**, focusing on robotics, embedded systems, computer vision, and deep learning. 
+- 🎥 **Bilibili Content Creator** ([@波西BrackRat](https://space.bilibili.com/12391388)) with **50,000+ followers** and **10M+ total views**. I make engaging videos covering programming, AI, popular science, and creative experiments.
+- 💻 **Independent Full-stack Developer**, passionate about building practical tools and modern web applications from scratch.
+- 🏆 **Award Winner**, including First Prize in the National Undergraduate Electronic Design Contest (Provincial) and multiple other technical competitions.
 
+## 🛠️ Tech Stack & Skills
 
-<img src="https://waka.brackrat.com/api/activity/chart/BrackRat.svg"/>
+- **Frontend:** `Vue.js`, `Next.js`, `Nuxt.js`, `Astro`, `TypeScript`, `Tailwind CSS`
+- **Backend & Scripting:** `Node.js`, `Python`
+- **Robotics & AI:** Computer Vision, Deep Learning, Robot Control Algorithms
+- **Interests:** Full-stack Development, Content Creation, Open Source, UI/UX Design
 
+## 🚀 Highlighted Projects
 
+- 🪄 **[Spellbook Dictionary (魔咒百科词典)](https://aitag.top)**: A highly popular online AI tag generator for the Stable Diffusion community.
+- 🤖 **BROS Framework**: A highly scalable embedded robotics framework for multi-task scheduling and efficient control developed at NEP Lab.
+- 🌐 **Modern Personal Homepage**: A high-performance full-stack blog and portfolio built with modern frontend frameworks.
 
----
+## 📺 Featured Bilibili Videos
 
+- 🌌 [**黑暗森林可视化，真的只有一个选择吗？**](https://www.bilibili.com/video/BV1U54y1p7Hj) (780k+ views)
+- 🪄 [**我开发了一款AI Tag在线生成器！魔咒百科词典**](https://www.bilibili.com/video/BV1Ne4y1j7a5) (450k+ views)
+- ⌨️ [**粘滞键，其实真的很有用！**](https://www.bilibili.com/video/BV15K4y1P7zK) (410k+ views)
 
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/JackHCC" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=BrackRat" alt="JackHCC's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="JackHCC's Stats" >
-    -->
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=brackrat&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="Percy's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brackrat&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF" alt="Top Langs" width="48%">
 </p>
-
-
-
 
 ---
-<p align="center">
-  <a href="https://space.bilibili.com/12391388" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="https://user-images.githubusercontent.com/29084184/129467562-a754907c-c128-40d0-80ad-86e89bdda3d6.png" width="30px"/>
-  </a> 
-  &emsp;
-  <a href="https://iooo.top" target="_blank" alt="Blog" title="Blog">
-    <img src="https://img.icons8.com/color/50/000000/web.png" width="26px"/>
-  </a>
-</p>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://img.icons8.com/color/50/000000/adobe-photoshop.png" alt="PhotoShop" title="PhotoShop"></code>
-<code><img height="20" src="https://img.icons8.com/color/50/000000/adobe-premiere-pro.png" alt="Premiere" title="Premiere"></code>
-<code><img height="20" src="https://img.icons8.com/color/50/000000/adobe-after-effects.png" alt="After-Effect" title="After-Effect"></code>
-<code><img height="20" src="https://img.icons8.com/color/50/000000/adobe-audition.png" alt="Audition" title="Audition"></code>
-<code><img height="20" src="https://img.icons8.com/color/50/000000/davinci-resolve.png" alt="Davinci Resolve" title="Davinci Resolve"></code>
-
-
-
-
-![Counter](https://count.getloli.com/get/@brackrat.github.readme)
+<div align="center">
+  <i>"Lowering the barrier to understanding complex technologies through vivid animations and code demonstrations."</i>
+</div>
